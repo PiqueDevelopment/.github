@@ -52,3 +52,11 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 ---
 
 Thank you for checking out Pique Development! Let’s build something amazing together. 🌟
+
+<br>
+<br>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/PiqueDevelopment/.github/refs/heads/main/profile/itsSoPique.png" alt="piquememe" width="700"/>
+</p>
+
